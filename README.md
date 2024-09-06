@@ -1,4 +1,4 @@
-![portada2](https://user-images.githubusercontent.com/62871071/138319837-2ffaf034-04e9-42f4-9a70-4a1cb05a0d27.jpeg)
+![portada2]
 
 I have more than 3 years of experience in Functional Software Testing, I have knowledge in SQL and MySQL database management, I have worked under the SCRUM methodology and I have a Scrum foundations certification using tools such as Jira, Confluence and Azure DevOps. My experience has allowed me to develop solid skills in all these areas to ensure software quality and reliability at every stage of the development cycle.
 I develop activities such as:
@@ -17,8 +17,8 @@ I am driven to create innovative and easy-to-use solutions that solve real probl
 <div align="center"> <h1> <strong> The technologies I currently work with are </strong> </h1> </div>   
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,go,aws,docker,kubernetes,git,linux,postman" alt="My Skills">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,aws,git,postgres,selenium,postman" alt="My Skills">
   </a>
   <br><br>
   👀 I’m interested in learning from new technologies
@@ -77,8 +77,6 @@ I am driven to create innovative and easy-to-use solutions that solve real probl
 </td></tr></table>
   
 <br/>
-
-
 
 <div align="center"> <h2> <strong> Connect with me <strong/></h2></div>
 <div align="center">
