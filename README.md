@@ -1,4 +1,5 @@
-![portada2]
+![portada2]![banner personalizado dayana](https://github.com/user-attachments/assets/39256875-bee5-46ff-8a0a-27a5883e24b1)
+
 
 I have more than 3 years of experience in Functional Software Testing, I have knowledge in SQL and MySQL database management, I have worked under the SCRUM methodology and I have a Scrum foundations certification using tools such as Jira, Confluence and Azure DevOps. My experience has allowed me to develop solid skills in all these areas to ensure software quality and reliability at every stage of the development cycle.
 I develop activities such as:
